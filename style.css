@@ -299,11 +299,7 @@ header {
 
 @media (max-width: 767px) and (min-width: 320px) {
   .container {
-    max-width: 360px;
-  }
-
-  header {
-    padding: 18px 16px;
+    max-width: 343px;
   }
 
   .nav__logo {
